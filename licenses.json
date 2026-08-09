@@ -37,8 +37,8 @@
             "nonce": "",
             "sig": "e3ad6b1d2b6af335e2c1bb0d04d816b8569caa6fd5f798828c3b4e123c69f92a"
         },
-        "PGK555": {
-            "key": "PGK555",
+        "PKG55": {
+            "key": "PKG55",
             "status": "active",
             "expires_at": "2032-12-31",
             "domains": [
@@ -46,11 +46,11 @@
                 "pgk555.tech",
                 "www.pgk555.com"
             ],
-            "note": "F",
+            "note": "D",
             "install_id": "",
             "nonce": "",
-            "sig": "5026e8cc95c2b2cd17a3fbcb7a71da733f4a0254961eedea1ae305f188c8b438"
+            "sig": "d9b06949398a5938fab83fa0e829b2d5e2a890c65d29869b4d869098dc37e0ab"
         }
     },
-    "generated_at": "2026-08-09T04:35:36+00:00"
+    "generated_at": "2026-08-09T04:43:23+00:00"
 }
