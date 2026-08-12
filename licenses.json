@@ -37,20 +37,20 @@
             "nonce": "",
             "sig": "e3ad6b1d2b6af335e2c1bb0d04d816b8569caa6fd5f798828c3b4e123c69f92a"
         },
-        "PGK55": {
-            "key": "PGK55",
+        "PGK": {
+            "key": "PGK",
             "status": "active",
-            "expires_at": "2027-12-31",
+            "expires_at": "2034-12-31",
             "domains": [
                 "pgk555.com",
-                "pgk555.tech",
-                "www.pgk555.com"
+                "www.pgk555.com",
+                "pgk555.trch"
             ],
-            "note": "GGGGG",
+            "note": "Fa",
             "install_id": "",
             "nonce": "",
-            "sig": "936d7bc3d8eae07ea31b2955148d2f20dd1b30d50bf3085d124c2ad5110861ed"
+            "sig": "91a158b68a6467775a966e43a3e310dfea449e7480ae3821de8f58eed7a544e8"
         }
     },
-    "generated_at": "2026-08-11T05:20:45+00:00"
+    "generated_at": "2026-08-12T07:15:57+00:00"
 }
