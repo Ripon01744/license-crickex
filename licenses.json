@@ -24,21 +24,8 @@
             "nonce": "",
             "sig": "8e690d1a71653e13306063920dc65302c8f5b0cacc842f6ba580b16c59fb5f73"
         },
-        "1235": {
-            "key": "1235",
-            "status": "active",
-            "expires_at": "2027-12-31",
-            "domains": [
-                "www.playkoro.com",
-                "playkoro.com"
-            ],
-            "note": "rrrr",
-            "install_id": "",
-            "nonce": "",
-            "sig": "e3ad6b1d2b6af335e2c1bb0d04d816b8569caa6fd5f798828c3b4e123c69f92a"
-        },
-        "LMM": {
-            "key": "LMM",
+        "pgk555": {
+            "key": "pgk555",
             "status": "active",
             "expires_at": "2034-12-31",
             "domains": [
@@ -46,11 +33,11 @@
                 "www.pgk555.com",
                 "pgk555.tech"
             ],
-            "note": "JIB",
+            "note": "fa",
             "install_id": "",
             "nonce": "",
-            "sig": "d564243bd56471b3685241000cb48edcd5274a8fc7567c8044fb61e0a839ef8f"
+            "sig": "a633a2bf9bb269202be990beb48cdec05be71fc84594e3d90864118615cea4e2"
         }
     },
-    "generated_at": "2026-08-12T21:53:16+00:00"
+    "generated_at": "2026-08-14T19:13:41+00:00"
 }
