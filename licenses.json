@@ -24,20 +24,19 @@
             "nonce": "",
             "sig": "8e690d1a71653e13306063920dc65302c8f5b0cacc842f6ba580b16c59fb5f73"
         },
-        "pgk555": {
-            "key": "pgk555",
+        "jio": {
+            "key": "jio",
             "status": "active",
-            "expires_at": "2034-12-31",
+            "expires_at": "2027-12-31",
             "domains": [
                 "pgk555.com",
-                "www.pgk555.com",
-                "pgk555.tech"
+                "www.pgk555.com"
             ],
-            "note": "fa",
+            "note": "fff",
             "install_id": "",
             "nonce": "",
-            "sig": "a633a2bf9bb269202be990beb48cdec05be71fc84594e3d90864118615cea4e2"
+            "sig": "66c2eb9f56c9bc7cafbc5b7ded982ebaab96f2d1f4e51a93f15383127fda8c1e"
         }
     },
-    "generated_at": "2026-08-14T19:13:41+00:00"
+    "generated_at": "2026-08-15T14:53:22+00:00"
 }
