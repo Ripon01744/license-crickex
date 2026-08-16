@@ -12,19 +12,19 @@
             "nonce": "",
             "sig": "8e690d1a71653e13306063920dc65302c8f5b0cacc842f6ba580b16c59fb5f73"
         },
-        "pgk555": {
-            "key": "pgk555",
+        "jun": {
+            "key": "jun",
             "status": "active",
             "expires_at": "2032-12-31",
             "domains": [
-                "pgk555.com",
-                "www.pgk555.com"
+                "www.pfk555.com",
+                "pgk555.com"
             ],
-            "note": "for",
+            "note": "jun",
             "install_id": "",
             "nonce": "",
-            "sig": "1febc7e141ea3026391fa5257c78ddf3b5fcb9ee845d37f801c0c8467252863d"
+            "sig": "ce49ed0491cd272502132d48d0f8601b4db1353c206ce622c731cb9ac5c30497"
         }
     },
-    "generated_at": "2026-08-16T04:09:33+00:00"
+    "generated_at": "2026-08-16T04:11:42+00:00"
 }
