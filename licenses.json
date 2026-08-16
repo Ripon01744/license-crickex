@@ -24,19 +24,19 @@
             "nonce": "",
             "sig": "8e690d1a71653e13306063920dc65302c8f5b0cacc842f6ba580b16c59fb5f73"
         },
-        "jio": {
-            "key": "jio",
+        "PGK555": {
+            "key": "PGK555",
             "status": "active",
-            "expires_at": "2027-12-31",
+            "expires_at": "2032-12-31",
             "domains": [
-                "pgk555.com",
-                "www.pgk555.com"
+                "playkoro.com",
+                "www.playkoro.com"
             ],
-            "note": "fff",
+            "note": "far",
             "install_id": "",
             "nonce": "",
-            "sig": "66c2eb9f56c9bc7cafbc5b7ded982ebaab96f2d1f4e51a93f15383127fda8c1e"
+            "sig": "723da6410414bf599ee6c4f905b878e9c562df7390e81671bd178a825a1fe60b"
         }
     },
-    "generated_at": "2026-08-15T14:53:22+00:00"
+    "generated_at": "2026-08-16T04:06:42+00:00"
 }
