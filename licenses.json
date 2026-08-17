@@ -12,20 +12,19 @@
             "nonce": "",
             "sig": "8e690d1a71653e13306063920dc65302c8f5b0cacc842f6ba580b16c59fb5f73"
         },
-        "jul": {
-            "key": "jul",
+        "pgk5": {
+            "key": "pgk5",
             "status": "active",
-            "expires_at": "2043-12-31",
+            "expires_at": "2034-12-31",
             "domains": [
-                "pgk555.com",
                 "www.pgk555.com",
-                "pgk555.tech"
+                "pgk555.com"
             ],
-            "note": "lab",
+            "note": "fff",
             "install_id": "",
             "nonce": "",
-            "sig": "62f3a81e980b2797a1c09e9a0eea1613b94a46b7b3cccc968924c1251611d1b9"
+            "sig": "b3d73cdde5130aa1031ed5f625312a4ca7a140d90a5c2210afce2a84febeb45d"
         }
     },
-    "generated_at": "2026-08-16T04:14:25+00:00"
+    "generated_at": "2026-08-17T04:02:32+00:00"
 }
