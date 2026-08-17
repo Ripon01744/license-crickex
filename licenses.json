@@ -24,7 +24,20 @@
             "install_id": "",
             "nonce": "",
             "sig": "b3d73cdde5130aa1031ed5f625312a4ca7a140d90a5c2210afce2a84febeb45d"
+        },
+        "PGK99": {
+            "key": "PGK99",
+            "status": "active",
+            "expires_at": "2034-12-31",
+            "domains": [
+                "www.pgk555.com",
+                "pgk555.com"
+            ],
+            "note": "HHHH",
+            "install_id": "",
+            "nonce": "",
+            "sig": "1d3948784e2698bf38045bb67dbba15ad470061c648d6e1916983d5b5e2e1894"
         }
     },
-    "generated_at": "2026-08-17T04:02:32+00:00"
+    "generated_at": "2026-08-17T09:34:45+00:00"
 }
