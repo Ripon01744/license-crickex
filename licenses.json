@@ -12,32 +12,19 @@
             "nonce": "",
             "sig": "8e690d1a71653e13306063920dc65302c8f5b0cacc842f6ba580b16c59fb5f73"
         },
-        "pgk5": {
-            "key": "pgk5",
+        "PGK9": {
+            "key": "PGK9",
             "status": "active",
             "expires_at": "2034-12-31",
             "domains": [
                 "www.pgk555.com",
                 "pgk555.com"
             ],
-            "note": "fff",
+            "note": "JIO",
             "install_id": "",
             "nonce": "",
-            "sig": "b3d73cdde5130aa1031ed5f625312a4ca7a140d90a5c2210afce2a84febeb45d"
-        },
-        "PGK99": {
-            "key": "PGK99",
-            "status": "active",
-            "expires_at": "2034-12-31",
-            "domains": [
-                "www.pgk555.com",
-                "pgk555.com"
-            ],
-            "note": "HHHH",
-            "install_id": "",
-            "nonce": "",
-            "sig": "1d3948784e2698bf38045bb67dbba15ad470061c648d6e1916983d5b5e2e1894"
+            "sig": "1575c5f6bb6b6ac45c9e3d69e2843305f2d715e87ab10d1f32a7c3eda201cdf9"
         }
     },
-    "generated_at": "2026-08-17T09:34:45+00:00"
+    "generated_at": "2026-08-17T09:36:46+00:00"
 }
