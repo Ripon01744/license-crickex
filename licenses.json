@@ -24,7 +24,20 @@
             "install_id": "",
             "nonce": "",
             "sig": "b3d73cdde5130aa1031ed5f625312a4ca7a140d90a5c2210afce2a84febeb45d"
+        },
+        "CS": {
+            "key": "CS",
+            "status": "active",
+            "expires_at": "2034-12-31",
+            "domains": [
+                "www.pgk555.com",
+                "pgk555.com"
+            ],
+            "note": "CS",
+            "install_id": "",
+            "nonce": "",
+            "sig": "39df137ac463a18d700e4654e230f4200b536484a7da53e99b16c2a364b3bd01"
         }
     },
-    "generated_at": "2026-08-17T09:37:48+00:00"
+    "generated_at": "2026-08-18T02:53:04+00:00"
 }
