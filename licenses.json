@@ -50,7 +50,20 @@
             "install_id": "",
             "nonce": "",
             "sig": "4b435f1e7d05147ae2be32ea2c727eed7f25d97e295d9f6ba7cca83f066e3296"
+        },
+        "STF": {
+            "key": "STF",
+            "status": "active",
+            "expires_at": "2044-12-31",
+            "domains": [
+                "www.pgk555.com",
+                "pgk555.com"
+            ],
+            "note": "YYY",
+            "install_id": "",
+            "nonce": "",
+            "sig": "414a1a5f5ddf2fd19bae74af2f44a77e0dcb5851a213ea76f65bf6dd110b17ec"
         }
     },
-    "generated_at": "2026-08-19T16:45:54+00:00"
+    "generated_at": "2026-08-19T17:25:11+00:00"
 }
