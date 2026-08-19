@@ -12,32 +12,19 @@
             "nonce": "",
             "sig": "8e690d1a71653e13306063920dc65302c8f5b0cacc842f6ba580b16c59fb5f73"
         },
-        "pgk5": {
-            "key": "pgk5",
+        "PS": {
+            "key": "PS",
             "status": "active",
             "expires_at": "2034-12-31",
             "domains": [
                 "www.pgk555.com",
                 "pgk555.com"
             ],
-            "note": "fff",
+            "note": "MEHHH",
             "install_id": "",
             "nonce": "",
-            "sig": "b3d73cdde5130aa1031ed5f625312a4ca7a140d90a5c2210afce2a84febeb45d"
-        },
-        "CS": {
-            "key": "CS",
-            "status": "active",
-            "expires_at": "2034-12-31",
-            "domains": [
-                "www.pgk555.com",
-                "pgk555.com"
-            ],
-            "note": "CS",
-            "install_id": "",
-            "nonce": "",
-            "sig": "39df137ac463a18d700e4654e230f4200b536484a7da53e99b16c2a364b3bd01"
+            "sig": "99616dff1eb2b4c736c8126a7199af4270dead18085097d56dcdbde9908df790"
         }
     },
-    "generated_at": "2026-08-18T02:53:04+00:00"
+    "generated_at": "2026-08-19T16:44:02+00:00"
 }
