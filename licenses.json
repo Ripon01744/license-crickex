@@ -12,45 +12,6 @@
             "nonce": "",
             "sig": "8e690d1a71653e13306063920dc65302c8f5b0cacc842f6ba580b16c59fb5f73"
         },
-        "pgk5": {
-            "key": "pgk5",
-            "status": "active",
-            "expires_at": "2034-12-31",
-            "domains": [
-                "www.pgk555.com",
-                "pgk555.com"
-            ],
-            "note": "fff",
-            "install_id": "",
-            "nonce": "",
-            "sig": "b3d73cdde5130aa1031ed5f625312a4ca7a140d90a5c2210afce2a84febeb45d"
-        },
-        "CS": {
-            "key": "CS",
-            "status": "active",
-            "expires_at": "2034-12-31",
-            "domains": [
-                "www.pgk555.com",
-                "pgk555.com"
-            ],
-            "note": "CS",
-            "install_id": "",
-            "nonce": "",
-            "sig": "39df137ac463a18d700e4654e230f4200b536484a7da53e99b16c2a364b3bd01"
-        },
-        "psf": {
-            "key": "psf",
-            "status": "active",
-            "expires_at": "20234-12-31",
-            "domains": [
-                "www.pgk555.com",
-                "pgk555.com"
-            ],
-            "note": "psf",
-            "install_id": "",
-            "nonce": "",
-            "sig": "4b435f1e7d05147ae2be32ea2c727eed7f25d97e295d9f6ba7cca83f066e3296"
-        },
         "STF": {
             "key": "STF",
             "status": "active",
