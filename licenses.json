@@ -1,17 +1,5 @@
 {
     "licenses": {
-        "STF2": {
-            "key": "STF2",
-            "status": "active",
-            "expires_at": "2029-01-01",
-            "domains": [
-                "https://7bazi.com/"
-            ],
-            "install_id": "",
-            "note": "",
-            "nonce": "",
-            "sig": ""
-        },
         "STF": {
             "key": "STF",
             "status": "active",
@@ -39,5 +27,5 @@
             "sig": "a6e357ce97d1ce47bd468bbe8dfaaa3bc2cd9b738a7da151e967b370e5e45def"
         }
     },
-    "generated_at": "2026-09-17T17:54:33+00:00"
+    "generated_at": "2026-09-17T17:56:01+00:00"
 }
