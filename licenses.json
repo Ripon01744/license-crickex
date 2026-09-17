@@ -24,7 +24,20 @@
             "install_id": "",
             "nonce": "",
             "sig": "414a1a5f5ddf2fd19bae74af2f44a77e0dcb5851a213ea76f65bf6dd110b17ec"
+        },
+        "bdbd": {
+            "key": "bdbd",
+            "status": "active",
+            "expires_at": "2027-12-31",
+            "domains": [
+                "7bazi.com",
+                "www.7bazi.com"
+            ],
+            "note": "7bz",
+            "install_id": "",
+            "nonce": "",
+            "sig": "a6e357ce97d1ce47bd468bbe8dfaaa3bc2cd9b738a7da151e967b370e5e45def"
         }
     },
-    "generated_at": "2026-08-19T17:25:11+00:00"
+    "generated_at": "2026-09-17T17:54:33+00:00"
 }
