@@ -1,16 +1,16 @@
 {
     "licenses": {
-        "PK-OLDC-LENT-0003": {
-            "key": "PK-OLDC-LENT-0003",
-            "status": "revoked",
-            "expires_at": "2026-01-01",
+        "STF2": {
+            "key": "STF2",
+            "status": "active",
+            "expires_at": "2029-01-01",
             "domains": [
-                "oldclient.com"
+                "https://7bazi.com/"
             ],
             "install_id": "",
-            "note": "Revoked example",
+            "note": "",
             "nonce": "",
-            "sig": "8e690d1a71653e13306063920dc65302c8f5b0cacc842f6ba580b16c59fb5f73"
+            "sig": ""
         },
         "STF": {
             "key": "STF",
