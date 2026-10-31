@@ -11,7 +11,7 @@
             "note": "YYY",
             "install_id": "",
             "nonce": "",
-            "sig": "414a1a5f5ddf2fd19bae74af2f44a77e0dcb5851a213ea76f65bf6dd110b17ec"
+            "sig": ""
         },
         "bdbd": {
             "key": "bdbd",
@@ -24,7 +24,7 @@
             "note": "7bz",
             "install_id": "",
             "nonce": "",
-            "sig": "a6e357ce97d1ce47bd468bbe8dfaaa3bc2cd9b738a7da151e967b370e5e45def"
+            "sig": ""
         }
     },
     "generated_at": "2026-09-17T17:56:01+00:00"
