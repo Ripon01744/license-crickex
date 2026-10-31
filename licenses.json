@@ -27,19 +27,19 @@
             "sig": ""
         }
     },
-            "bdbd": {
-            "key": "sm",
+            "SMST": {
+            "key": "SMST",
             "status": "active",
-            "expires_at": "2027-12-31",
+            "expires_at": "2028-12-31",
             "domains": [
                 "baaji555.com",
                 "www.baaji555.com"
             ],
-            "note": "7bz",
+            "note": "NEW",
             "install_id": "",
             "nonce": "",
             "sig": ""
         }
     },
-    "generated_at": "2026-09-17T17:56:01+00:00"
+    "generated_at": "2026-10-17T17:56:01+00:00"
 }
