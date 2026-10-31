@@ -27,5 +27,19 @@
             "sig": ""
         }
     },
+            "bdbd": {
+            "key": "sm",
+            "status": "active",
+            "expires_at": "2027-12-31",
+            "domains": [
+                "baaji555.com",
+                "www.baaji555.com"
+            ],
+            "note": "7bz",
+            "install_id": "",
+            "nonce": "",
+            "sig": ""
+        }
+    },
     "generated_at": "2026-09-17T17:56:01+00:00"
 }
