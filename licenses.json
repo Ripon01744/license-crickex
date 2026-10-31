@@ -5,13 +5,13 @@
             "status": "active",
             "expires_at": "2044-12-31",
             "domains": [
-                "www.baaji555.com",
-                "baaji555.com"
+                "baaji555.com",
+                "www.baaji555.com"
             ],
             "note": "YYY",
             "install_id": "",
             "nonce": "",
-            "sig": ""
+            "sig": "cd1654702c0718eea1f7ba5b4d63ccc257c5064913040281780f0220be24e514"
         },
         "bdbd": {
             "key": "bdbd",
@@ -24,10 +24,9 @@
             "note": "7bz",
             "install_id": "",
             "nonce": "",
-            "sig": ""
-        }
-    },
-            "SMST": {
+            "sig": "43bf1898822ca938c1b8f40631742f2d6b3f23521d29d32a7473571ccfed35b3"
+        },
+        "SMST": {
             "key": "SMST",
             "status": "active",
             "expires_at": "2028-12-31",
@@ -38,8 +37,8 @@
             "note": "NEW",
             "install_id": "",
             "nonce": "",
-            "sig": ""
+            "sig": "8ec6a38149af5b733423a96a60b83a7a3119c99b0764230799f585d94379bc9b"
         }
     },
-    "generated_at": "2026-10-17T17:56:01+00:00"
+    "generated_at": "2026-10-31T17:20:39+00:00"
 }
