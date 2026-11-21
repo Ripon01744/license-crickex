@@ -18,13 +18,13 @@
             "status": "active",
             "expires_at": "2027-12-31",
             "domains": [
-                "baaji555.com",
-                "www.baaji555.com"
+                "tbd555.com",
+                "www.tbd555.com"
             ],
             "note": "7bz",
             "install_id": "",
             "nonce": "",
-            "sig": "43bf1898822ca938c1b8f40631742f2d6b3f23521d29d32a7473571ccfed35b3"
+            "sig": ""
         },
         "SMST": {
             "key": "SMST",
