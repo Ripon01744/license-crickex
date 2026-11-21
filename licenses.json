@@ -1,60 +1,57 @@
 {
-    "licenses": {
-        "STF": {
-            "key": "STF",
-            "status": "active",
-            "expires_at": "2044-12-31",
-            "domains": [
-                "baaji555.com",
-                "www.baaji555.com"
-            ],
-            "note": "YYY",
-            "install_id": "",
-            "nonce": "",
-            "sig": "cd1654702c0718eea1f7ba5b4d63ccc257c5064913040281780f0220be24e514"
-        },
-        "bdbd": {
-            "key": "bdbd",
-            "status": "active",
-            "expires_at": "2027-12-31",
-            "domains": [
-                "tbd555.com",
-                "www.tbd555.com"
-            ],
-            "note": "7bz",
-            "install_id": "",
-            "nonce": "",
-            "sig": ""
-        },
-        "SMST": {
-            "key": "SMST",
-            "status": "active",
-            "expires_at": "2028-12-31",
-            "domains": [
-                "baaji555.com",
-                "www.baaji555.com"
-            ],
-            "note": "NEW",
-            "install_id": "",
-            "nonce": "",
-            "sig": "8ec6a38149af5b733423a96a60b83a7a3119c99b0764230799f585d94379bc9b"
-        }
+  "licenses": {
+    "STF": {
+      "key": "STF",
+      "status": "active",
+      "expires_at": "2044-12-31",
+      "domains": [
+        "baaji555.com",
+        "www.baaji555.com"
+      ],
+      "note": "YYY",
+      "install_id": "",
+      "nonce": "",
+      "sig": "cd1654702c0718eea1f7ba5b4d63ccc257c5064913040281780f0220be24e514"
+    },
+    "bdbd": {
+      "key": "bdbd",
+      "status": "active",
+      "expires_at": "2027-12-31",
+      "domains": [
+        "tbd555.com",
+        "www.tbd555.com"
+      ],
+      "note": "7bz",
+      "install_id": "",
+      "nonce": "",
+      "sig": ""
+    },
+    "SMST": {
+      "key": "SMST",
+      "status": "active",
+      "expires_at": "2028-12-31",
+      "domains": [
+        "baaji555.com",
+        "www.baaji555.com"
+      ],
+      "note": "NEW",
+      "install_id": "",
+      "nonce": "",
+      "sig": "8ec6a38149af5b733423a96a60b83a7a3119c99b0764230799f585d94379bc9b"
     },
     "PK-HGR9-7JK6-8ZX7": {
-            "key": "PK-HGR9-7JK6-8ZX7",
-            "status": "active",
-            "expires_at": "2040-12-31",
-            "domains": [
-                "tbd555.com",
-                "www.tbd555.com"
-            ],
-            "note": "f",
-            "install_id": "",
-            "nonce": "",
-            "sig": "1f873351c479be7dc9e8dc4906a5082f45117f30f746bf314995f148960819b2"
-        }
-    },
-    "generated_at": "2026-11-21T10:46:29+00:00"
-}
-    "generated_at": "2026-10-31T17:20:39+00:00"
+      "key": "PK-HGR9-7JK6-8ZX7",
+      "status": "active",
+      "expires_at": "2040-12-31",
+      "domains": [
+        "tbd555.com",
+        "www.tbd555.com"
+      ],
+      "note": "f",
+      "install_id": "",
+      "nonce": "",
+      "sig": "1f873351c479be7dc9e8dc4906a5082f45117f30f746bf314995f148960819b2"
+    }
+  },
+  "generated_at": "2026-11-21T10:46:29+00:00"
 }
